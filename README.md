@@ -7,5 +7,5 @@ My very own personal website. Basically this is just a résumé.
 
 ## Links :point_down:
 - [GitHub Pages](https://oberezhnay.github.io/homepage/)
-- [AWS]http://hpberezhna.com-production.s3-website.eu-central-1.amazonaws.com/)
+- [AWS](http://hpberezhna.com-production.s3-website.eu-central-1.amazonaws.com/)
 - [Now](https://homepageb-bz3xzj10y.vercel.app/)
