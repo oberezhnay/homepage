@@ -22,4 +22,4 @@ deploy:
     region: eu-central-1
     acl: public_read
     on:
-      branch: master
+      branch: main
